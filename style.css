@@ -93,6 +93,7 @@ body::before {
     box-shadow: 0 0 30px #00e5ff;
     text-shadow: 0 0 30px #00e5ff;
     transform: scale(1.09); 
+    transition: all 0.3s ease;
   }
 
 
